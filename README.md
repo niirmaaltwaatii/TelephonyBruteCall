@@ -6,17 +6,29 @@ Author : **_Niirmaal twaatii_** <br/>
 N11rm44L 7w44711 <br/>
 
 ### Requirements
-1) Termux APk
+1) Termux APK
 2) Termux-API Apk
 3) pkg install termux-api
 
 ## SetUp && Installation <br/>
-termux-setup-storage <br/>
-pkg install git -y
-git clone https://www.github.com/niirmaaltwaatii/TelephonyBruteCall.git <br/> 
-cd telephonybrutecall <br/>
-chmod +x * <br/>
-./tbc.sh <br/>
+```
+$ termux-setup-storage
+```
+```
+$ pkg install git -y
+```
+```
+$ git clone https://www.github.com/niirmaaltwaatii/TelephonyBruteCall.git
+```
+```
+$ cd telephonybrutecall
+```
+```
+$ chmod +x * 
+```
+```
+$ ./tbc.sh
+```
 
 ### Use
 Enter the _Starting & Ending Number_; Give _Time difeference for Each Calls_; Done; <br/>
@@ -31,3 +43,4 @@ Dont give _ending number less that starting number_ , That will cause program to
 [Instagram Profile](**_www.instagram.com/niirmaaltwaatii_**) <br/> 
 [Twitter Profie](**_www.twitter.com/niirmaaltwaatii_**) <br/> 
 [Telegram](**_www.t.me/niirmaaltwaatii_**) <br/> 
+
