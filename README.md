@@ -37,10 +37,11 @@ Enter the _Starting & Ending Number_; Give _Time difeference for Each Calls_; Do
 Dont give _ending number less that starting number_ , That will cause program to be an infinite loop <br/>
 
 ### Social Links
-[Youtube](**_www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw_**) <br/> 
-[Facebook Profile](**_www.facebook.com/tw.niirmal**) <br/> 
+[**Youtube Channel**](**_www.youtube.com/channel/UCAIZm1RkOe4pySifRsn3TNw_**) <br/> 
+[_Facebook Profile_](**_www.facebook.com/tw.niirmal**) <br/> 
 [Facebook Page](**_www.facebook.com/niirmaaltwaatii_**) <br/> 
 [Instagram Profile](**_www.instagram.com/niirmaaltwaatii_**) <br/> 
-[Twitter Profie](**_www.twitter.com/niirmaaltwaatii_**) <br/> 
-[Telegram](**_www.t.me/niirmaaltwaatii_**) <br/> 
+[**Telegram**](**_www.t.me/niirmaaltwaatii_**) <br/> 
+[Twitter Profile](**_www.twitter.com/niirmaaltwaatii_**) <br/> 
+
 
